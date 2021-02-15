@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4C99A230-6AF4-4D76-B6AF-CA8DBBAB2934}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PDDP" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PDDP" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="struct" expanded="True" />
+                  <Node name="TaskMono.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f08b3b5f-005d-49b3-b33f-a469a8694be2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

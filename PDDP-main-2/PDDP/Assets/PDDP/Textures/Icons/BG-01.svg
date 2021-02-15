@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="283.697" height="131" viewBox="0 0 283.697 131">
+  <defs>
+    <filter id="Subtração_3" x="0" y="0" width="283.697" height="131" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Subtração_3)">
+    <path id="Subtração_3-2" data-name="Subtração 3" d="M345.5,406a144.627,144.627,0,0,1-107.78-47.914,143.634,143.634,0,0,1-22.169-32.756c-4.64.444-9.367.67-14.051.67a144.516,144.516,0,0,1-92.2-33H375V403.007A146.546,146.546,0,0,1,345.5,406Z" transform="translate(-100.3 -287)" fill="#00bfa6"/>
+  </g>
+</svg>
